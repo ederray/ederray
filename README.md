@@ -1,4 +1,5 @@
-**``Cientista de Dados``** \
+
+#### **``Cientista de Dados``** 
 Especialista em Gestão de Cadeia de Suprimentos (Supply Chain).
 Tenho experiência em diversos cargos nos segmentos de Moda Varejista, Telecom, Educação, Serviços e Saúde.
 
