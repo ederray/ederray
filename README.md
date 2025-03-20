@@ -1,3 +1,4 @@
+## Olá, que bom te ver no meu perfil.
 
 #### **``Cientista de Dados``** 
 Especialista em Gestão de Cadeia de Suprimentos (Supply Chain).
