@@ -8,7 +8,7 @@ Atualmente realizo Pós-Graduação em **``Machine Learning Engineering``** para
 
 Aqui você encontrará diversos projetos envolvendo problemas de Supply Chain e Logística, e de outras áreas de negócio, como Saúde, etc.
 
-Reuno soluções para problemas de negócios que envolvem:
+Reuno soluções utilizando ferramentas e técnicas de mercado, e modelos de Machine Learning para problemas de negócios que envolvem:
 
 * Séries Temporais
 * Previsão
