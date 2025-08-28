@@ -22,7 +22,7 @@ Reuno soluções utilizando ferramentas e técnicas de mercado, e modelos de Mac
 ## **Contato** 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br/in/ederray)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/pqxok7)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551987654321?text=Ol%C3%A1%2C%20Eder%20Ray%21%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20oportunidades%20de%20colabora%C3%A7%C3%A3o.)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eder.ray@gmail.com)
 
 
@@ -57,6 +57,6 @@ height= "80px" width="80px" src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC
 ## **Projetos Recentes** 
 
 
-* **[API Forecasting on Databricks](https://github.com/ederray/nome-do-projeto-1)** - Projeto de coleta automatizada de preço de insumo para construção de modelo preditivo com exposição via API, com monitoramento e dashboard de resultados no Databricks para consolidação de strategic sourcing em times de compras.
-* **[ETL na AWS](https://github.com/ederray/etl-aws)** - Projeto de construção de um pipeline de dados de cotação de ações da Ibovespa integrado a um modelo de previsão com ferramentas AWS.
+* **[API Forecasting on Databricks](https://github.com/ederray/nome-do-projeto-1)** - Projeto de coleta automatizada de preço do etanol para construção de modelo preditivo de série temporal com exposição via API, com monitoramento de versão via MlFlow e dashboard de resultados no Databricks para consolidação de strategic sourcing para times de compras.
+* **[ETL na AWS](https://github.com/ederray/etl-aws)** - Projeto de construção de um pipeline de dados de cotação de ações Ibovespa integrado a um modelo de previsão com ferramentas AWS.
 * **[Digital Twin Supply Chain](https://github.com/ederray/projetos_otimizacao/tree/main/digital_twin_supply_chain)** - Projeto de desenvolvimento de um gêmeo digital aplicado à logística e distribuição, com simulação de cenários de demanda, políticas de estoque e otimização de rotas utilizando algoritmos de machine learning, Salabim e OR-Tools.
