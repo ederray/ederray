@@ -14,7 +14,7 @@ Reuno soluções utilizando ferramentas e técnicas de mercado, e modelos de Mac
 * Previsão
 * Segmentação de classes
 * Classificação
-* Simulação
+* Otimização e Simulação
 * Análise Estatística 
 * Modelagem de Dados
 * DataViz
@@ -55,3 +55,8 @@ height= "80px" width="80px" src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC
 </div>
 
 ## **Projetos Recentes** 
+
+
+* **[API Forecasting on Databricks](https://github.com/ederray/nome-do-projeto-1)** - Projeto de coleta automatizada de preço de insumo para construção de modelo preditivo com exposição via API, com monitoramento e dashboard de resultados no Databricks para consolidação de strategic sourcing em times de compras.
+* **[ETL na AWS]([https://github.com/ederray/etl-aws])** - Projeto de construção de um pipeline de dados de cotação de ações da Ibovespa integrado a um modelo de previsão com ferramentas AWS.
+* **[Digital Twin Supply Chain](https://github.com/ederray/projetos_otimizacao/tree/main/digital_twin_supply_chain)** - Projeto de desenvolvimento de um gêmeo digital aplicado à logística e distribuição, com simulação de cenários de demanda, políticas de estoque e otimização de rotas utilizando algoritmos de machine learning, Salabim e OR-Tools.
