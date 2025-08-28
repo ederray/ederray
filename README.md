@@ -22,7 +22,7 @@ Reuno soluções utilizando ferramentas e técnicas de mercado, e modelos de Mac
 ## **Contato** 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br/in/ederray)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551987654321?text=Ol%C3%A1%2C%20Eder%20Ray%21%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20oportunidades%20de%20colabora%C3%A7%C3%A3o.)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996151636?text=Ol%C3%A1%2C%20Eder%20Ray%21%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20oportunidades%20de%20colabora%C3%A7%C3%A3o.)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eder.ray@gmail.com)
 
 
